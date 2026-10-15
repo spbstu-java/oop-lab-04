@@ -1,0 +1,12 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Main (lab04)",
+            "request": "launch",
+            "mainClass": "lab04.Main",
+            "console": "integratedTerminal"
+        }
+    ]
+}
